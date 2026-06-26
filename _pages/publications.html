@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">
-    Publication list curated from <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> (last synchronized: June 2026).
+  <div class="wordwrap publications__intro">
+    *: equal contribution; # corresponding author.
   </div>
 {% endif %}
 
@@ -22,17 +22,16 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 class="publications__category-title">{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% capture publication_item_class %}{% cycle 'publication_rows': 'publication__item--shaded', 'publication__item--transparent' %}{% endcapture %}
+      {% include archive-single.html item_class=publication_item_class %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% capture publication_item_class %}{% cycle 'publication_rows': 'publication__item--shaded', 'publication__item--transparent' %}{% endcapture %}
+    {% include archive-single.html item_class=publication_item_class %}
   {% endfor %}
 {% endif %}
-
-
-

@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xuepeng Wang"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Xuepeng Wang (王雪鹏)"
+name                     : &name "Xuepeng Wang"
 description              : &description "Xuepeng Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://xuepeng_wang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuepeng Wang"
+  name             : "Xuepeng Wang (王雪鹏)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate.<br> Condensed Matter Theory."
   location         : #"Ithaca, NY"
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: ''
   manuscripts:
-    title: 'Journal Articles'    
+    title: ''    
   conferences:
-    title: 'Conference Papers'
+    title: ''
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

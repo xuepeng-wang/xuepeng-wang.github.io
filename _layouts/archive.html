@@ -17,7 +17,14 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      <h1 class="page__title">
+        {{ page.title }}
+        {% if page.url == "/publications/" and site.author.googlescholar %}
+          <span class="publications__sync-note">
+            see also <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+          </span>
+        {% endif %}
+      </h1>
     {% endunless %}
     {{ content }}
   </div>

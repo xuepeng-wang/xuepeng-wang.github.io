@@ -43,6 +43,18 @@
   }
 }
 
+.page__title--publication {
+  font-size: $type-size-3;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-collective-density-fluctuations-strange-metals
 excerpt: "<i>Phys. Rev. B</i> 107 (12), 125157 (2023)."
-authors: "X. Wang, D. Chowdhury"
+authors: "<strong>X. Wang</strong>, D. Chowdhury"
 date: 2023-01-01
 venue: "<i>Phys. Rev. B</i> 107 (12), 125157 (2023)"
-paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Oa9hRwQAAAAJ&citation_for_view=Oa9hRwQAAAAJ:zYLM7Y9cAGgC"
+paperurl: "https://doi.org/10.1103/PhysRevB.107.125157"
 citation: "X. Wang, D. Chowdhury. (2023). Collective density fluctuations of strange metals with critical Fermi surfaces. <i>Phys. Rev. B</i> 107 (12), 125157."
 ---
 
