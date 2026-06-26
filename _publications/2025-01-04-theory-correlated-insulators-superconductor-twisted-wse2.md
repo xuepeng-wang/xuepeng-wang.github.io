@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-theory-correlated-insulators-superconductor-twisted-wse2
 excerpt: "<i>Nat. Commun.</i> 16 (1), 1701 (2025)."
-authors: "S. Kim&#42;, J. F. Mendez-Valderrama&#42;, <strong>X. Wang&#42;</strong>, D. Chowdhury"
+authors: "S. Kim<sup>*</sup>, J. F. Mendez-Valderrama<sup>*</sup>, <strong>X. Wang<sup>*</sup></strong>, D. Chowdhury"
 date: 2025-01-01
 venue: "<i>Nat. Commun.</i> 16 (1), 1701 (2025)"
 paperurl: "https://arxiv.org/abs/2406.03525"
