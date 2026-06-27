@@ -269,7 +269,8 @@
     margin-bottom: 0;
 
     @include breakpoint(max-width $medium) {
-      float: right;
+      display: block;
+      margin-left: auto;
     }
 
     @include breakpoint($large) {
