@@ -262,7 +262,7 @@
 
   @include breakpoint(max-width $medium) {
     width: auto;
-    text-align: right;
+    text-align: left;
   }
 
   button {
