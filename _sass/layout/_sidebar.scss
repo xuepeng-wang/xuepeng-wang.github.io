@@ -288,10 +288,6 @@
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
-  @include breakpoint(max-width $medium) {
-    text-align: left;
-  }
-
   @include breakpoint($large) {
     display: block;
     position: relative;
@@ -342,7 +338,6 @@
 
   a {
     display: block;
-    text-align: left;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
