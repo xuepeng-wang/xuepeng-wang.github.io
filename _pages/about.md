@@ -54,6 +54,10 @@ In the past, I also did density functional theory calculations. I will also be i
   {% endif %}
 </section>
 
+Contact
+======
+Email: xw577-at-cornell-dot-edu
+
 Fun
 ======
 Outside of research, I enjoy skiing, playing piano and video gaming. My gaming interests also diverge, including Civ6, Splatoon etc.
