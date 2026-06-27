@@ -253,6 +253,11 @@
     display: block;
   }
 
+  @include breakpoint(max-width $medium) {
+    width: 100%;
+    text-align: right;
+  }
+
   button {
     margin-bottom: 0;
 
