@@ -10,6 +10,35 @@ redirect_from:
 
 I am a Ph.D candidate in theoretical condensed matter physics at <a href="https://physics.cornell.edu/" style="text-decoration: none;">Cornell</a>. I am fortunate to be advised by <a href="https://www.chowdhury.lassp.cornell.edu" style="text-decoration: none;">Prof. Debanjan Chowdhury</a>. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. Monte-Carlo)
 
+<section class="mobile-publications">
+  <h2 class="mobile-publications__title">Publications</h2>
+  <div class="wordwrap publications__intro">
+    *: equal contribution; # corresponding author.
+  </div>
+
+  {% if site.publication_category %}
+    {% for category in site.publication_category %}
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}
+          {% continue %}
+        {% endif %}
+        {% unless title_shown %}
+          <h3 class="publications__category-title">{{ category[1].title }}</h3>
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% capture publication_item_class %}{% cycle 'home_publication_rows': 'publication__item--shaded', 'publication__item--transparent' %}{% endcapture %}
+        {% include archive-single.html item_class=publication_item_class %}
+      {% endfor %}
+    {% endfor %}
+  {% else %}
+    {% for post in site.publications reversed %}
+      {% capture publication_item_class %}{% cycle 'home_publication_rows': 'publication__item--shaded', 'publication__item--transparent' %}{% endcapture %}
+      {% include archive-single.html item_class=publication_item_class %}
+    {% endfor %}
+  {% endif %}
+</section>
+
 Research Interests
 ======
 Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
