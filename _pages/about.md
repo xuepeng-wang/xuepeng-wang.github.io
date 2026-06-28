@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in theoretical condensed matter physics at <a href="https://physics.cornell.edu/" style="text-decoration: none;">Cornell</a>. I am fortunate to be advised by <a href="https://www.chowdhury.lassp.cornell.edu" style="text-decoration: none;">Prof. Debanjan Chowdhury</a>. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. Monte-Carlo)
+I am a Ph.D candidate in theoretical condensed matter physics at <a href="https://physics.cornell.edu/" style="text-decoration: none;">Cornell</a>. I am fortunate to be advised by <a href="https://www.chowdhury.lassp.cornell.edu" style="text-decoration: none;">Prof. Debanjan Chowdhury</a>. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. quantum Monte-Carlo)
 
 Research Interests
 ======
