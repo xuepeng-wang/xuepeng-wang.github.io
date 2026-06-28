@@ -15,7 +15,7 @@ Research Interests
 Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
 - **Non-Fermi Lquids & Strange metals**: including their spectral properties, transport and collective excitations.
 - **Moiré materials**: including their unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
-- **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
+- **Numerical techniques**: including Determinant Quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
 - **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.
 
 In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
