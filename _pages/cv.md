@@ -26,7 +26,7 @@ Honors
 
 Service
 ======
-* Referee for PRX Quantum, Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Appl.
+* Referee for PRX Quantum, Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Applied.
 
 
 <!-- Skills
