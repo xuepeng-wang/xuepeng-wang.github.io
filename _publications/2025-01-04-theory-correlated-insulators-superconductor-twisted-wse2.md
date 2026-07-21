@@ -1,5 +1,5 @@
 ---
-title: "Theory of Correlated Insulators and Superconductor at &nu; = -1 in Twisted WSe<sub>2</sub>"
+title: "Theory of Correlated Insulators and Superconductor at &nu; = 1 in Twisted WSe<sub>2</sub>"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-theory-correlated-insulators-superconductor-twisted-wse2
