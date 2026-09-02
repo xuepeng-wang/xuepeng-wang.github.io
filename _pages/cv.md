@@ -26,7 +26,7 @@ Research Leadership and Professional Activity
   * Resources awarded: 14.15 million CPU core-hours in total.
   * Deployed and managed large-scale quantum Monte Carlo simulations on San Diego Supercomputer Center (SDSC) Expanse.
 
-* Referee for PRX Quantum, Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Applied.
+* Referee for PRX Quantum, Phys. Rev. Lett., Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Applied.
 
 Honors
 ======
