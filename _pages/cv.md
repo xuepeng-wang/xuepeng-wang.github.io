@@ -19,14 +19,19 @@ Experience
 ======
 * Research Assistant, Institute for Advanced Study at Tsinghua University, 2020-2021
 
+Research Leadership and Professional Activity
+======
+* Led the preparation of an awarded NSF ACCESS Maximize allocation (PHY240209) and the execution of the associated computational research program, 2024-2026.
+  * Project: Quantum Monte Carlo Studies of Correlated Topological Phases of Matter 
+  * Resources awarded: 14.15 million CPU core-hours in total.
+  * Deployed and managed large-scale quantum Monte Carlo simulations on San Diego Supercomputer Center (SDSC) Expanse.
+
+* Referee for PRX Quantum, Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Applied.
+
 Honors
 ======
 * Cornell Fellowship, Cornell University, 2021
 * National Scholarship, Nanjing University, 2017
-
-Service
-======
-* Referee for PRX Quantum, Phys. Rev. B, Phys. Rev. Research, and Phys. Rev. Applied.
 
 
 <!-- Skills

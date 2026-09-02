@@ -12,13 +12,15 @@ I am a Ph.D candidate in theoretical condensed matter physics at <a href="https:
 
 Research Interests
 ======
-Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
-- **Non-Fermi liquids & Strange metals**: including their spectral properties, transport and collective excitations.
-- **Moiré materials**: including their unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
-- **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
+Unlike Monte-Carlo[^1], my research interests diverge. Specifically, I am interested in
+- **Non-Fermi Liquids & Strange Metals**: including their spectral properties, transport and collective excitations.
+- **Moiré materials**: unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
+- **Quantum Many-Body Methods**: determinant quantum Monte-Carlo, large-N field theory, and Green's function compression techniques such as discrete Lehmann representations.
 - **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.
 
 In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
+
+[^1]: In most case assuming CLT holds.
 
 Contact
 ======
