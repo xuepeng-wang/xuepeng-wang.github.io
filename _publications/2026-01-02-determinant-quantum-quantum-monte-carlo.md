@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-determinant-quantum-quantum-monte-carlo
 excerpt: "arXiv:2608.28742 (2026)."
-authors: "<strong>X. Wang</strong>#</sup>, S. Banerjee, D. Chowdhury"
+authors: "<strong>X. Wang<sup>#</sup></strong>, S. Banerjee, D. Chowdhury"
 date: 2026-01-02
 venue: "arXiv:2608.28742 (2026)"
 paperurl: "https://arxiv.org/abs/2608.28742"
