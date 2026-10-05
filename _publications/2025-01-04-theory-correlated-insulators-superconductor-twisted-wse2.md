@@ -7,7 +7,7 @@ excerpt: "<i>Nat. Commun.</i> 16 (1), 1701 (2025)."
 authors: "S. Kim<sup>*</sup>, J. F. Mendez-Valderrama<sup>*</sup>, <strong>X. Wang<sup>*</sup></strong>, D. Chowdhury"
 date: 2025-01-01
 venue: "<i>Nat. Commun.</i> 16 (1), 1701 (2025)"
-paperurl: "https://arxiv.org/abs/2406.03525"
+paperurl: "https://www.nature.com/articles/s41467-025-56816-8"
 citation: "S. Kim, J. F. Mendez-Valderrama, X. Wang, D. Chowdhury. (2025). Theory of correlated insulators and superconductor at &nu; = 1 in twisted WSe<sub>2</sub>. <i>Nat. Commun.</i> 16 (1), 1701."
 ---
 
